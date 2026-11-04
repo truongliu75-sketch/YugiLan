@@ -1,1 +1,13 @@
-
+{
+  "version": "yugi2.11",
+  "sources": [
+    {
+      "name": "GitHub Release",
+      "url": "https://github.com/truongliu75-sketch/YugiLan/releases/download/ygi/yugi.love"
+    },
+    {
+      "name": "Google Drive",
+      "url": "https://drive.google.com/uc?export=download&confirm=t&id=ID_FILE_DRIVE"
+    }
+  ]
+}
