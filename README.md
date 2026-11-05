@@ -1,2 +1,2 @@
 # YugiLan
-Yugi 2.8.4
+Yugi 2.8.
