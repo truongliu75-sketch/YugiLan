@@ -1,4 +1,4 @@
-# YugiLan – Game Yugi cho máy handheld (R36S, Trimui, muOS)
+# Yugi Oh Power Chaos Joey Mod – Game Yugi cho máy handheld (R36S, Trimui, muOS)
 
 Game bài **Yugi** chạy trên máy chơi game cầm tay, kèm script **Tailscale** để chơi qua mạng LAN / chơi từ xa như đang ở chung mạng.
 
