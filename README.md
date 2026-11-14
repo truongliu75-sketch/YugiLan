@@ -13,7 +13,7 @@ Game bài **Yugi** chạy trên máy chơi game cầm tay, kèm script **Tailsca
 2. **Phần 2 – Cài Tailscale** (tùy chọn, dùng khi muốn chơi qua mạng).
 
 ---
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/3060a7a9-b6cf-4371-9385-131922a92b53" />
+<img width="670" height="1048" alt="image" src="https://github.com/user-attachments/assets/3060a7a9-b6cf-4371-9385-131922a92b53" />
 
 # PHẦN 1 – TẢI VÀ CÀI GAME YUGI
 
