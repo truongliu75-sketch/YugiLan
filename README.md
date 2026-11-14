@@ -123,7 +123,7 @@ PortMaster là kho game Port chính thức, đồng thời cài các thư viện
 
 ## 8. Cập nhật game
 
-Khi có bản mới trong Releases: tải bản mới, chép đè lên thư mục cũ. Nên **sao lưu thư mục lưu game (save)** trước khi chép đè.
+Khi có bản mới trong Releases: Vào cài đặt trong game, chỉ cần vào đó cập nhật (yêu cầu **Wifi**).
 
 ---
 
