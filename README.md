@@ -114,6 +114,7 @@ PortMaster là kho game Port chính thức, đồng thời cài các thư viện
 | Triệu chứng | Cách xử lý |
 |---|---|
 | Không thấy game trong menu Ports | Chép lại đúng thư mục Ports (mục 4), rồi cập nhật danh sách game hoặc khởi động lại máy. |
+| Báo thiếu runtime / "Thieu LOVE runtime (love_11.5)" | Game dùng engine **LÖVE** nên cần **runtime `love_11.5`**. Mở **PortMaster** → cài (hoặc cập nhật) runtime **love_11.5** (thường nằm ở mục *Runtimes* hoặc tự tải khi cài một game LÖVE bất kỳ). Cần Wi-Fi. Xem thêm mục 7.1. |
 | Mở lên rồi tự thoát ngay | Cài **PortMaster** (mục 5) để có đủ thư viện. Kiểm tra file `.sh` và thư mục game có nằm **cạnh nhau**. |
 | Màn hình đen mãi | Chờ 1 phút. Nếu vẫn đen, tắt máy, chép lại game từ file zip gốc (có thể chép bị lỗi). |
 | Báo thiếu file | Giải nén **đủ** file zip, đừng chép từng phần. |
