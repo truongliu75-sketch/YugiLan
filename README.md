@@ -25,7 +25,7 @@ Theo ghi chú trong trang Releases, game đã qua các mốc cập nhật:
 - **3.7**: +100 lá bài mới
 - **3.8 / 3.9.6**: các bản cập nhật nhỏ
 - **4.0**: chế độ **Leo tháp**
-
+- **4.0.17**: chế độ **Luật đấu mạng bốc ngẫu nhiên 1 bộ trong 12 bộ**
 Luôn tải bản mới nhất ở mục Releases để có đầy đủ tính năng.
 
 ## 2. Chuẩn bị
